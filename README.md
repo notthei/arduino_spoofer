@@ -1,4 +1,4 @@
-# un detected
+# undetected
 
 wait for it
 
