@@ -2,14 +2,6 @@ import os
 import re
 import win32com.client
 
-
-select_num = int(input(">"))
-
-def main():
-    
-    pass
-
-
 """
 deviceなどIDをprint
 detected_miscリストに追加
